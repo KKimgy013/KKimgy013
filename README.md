@@ -1,6 +1,10 @@
 ## 안녕하세요 😁🙌
 
-* 🌱 사용 언어는 **Java, Python, JavaScript, C#, MySQL**
+🤓 Usually *Java, Python, JavaScript, C#, MySQL*
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKimgy013&layout=compact)
+
+
 * 🔭 인턴 4개월
 * 🖥️ 프로젝트 List
    - 과자공장 DB 설계
