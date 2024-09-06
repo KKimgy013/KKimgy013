@@ -1,19 +1,17 @@
 ## 안녕하세요 😁🙌
 
-* 🌱 사용 언어는 **Java, Python, JavaScript, C#**
-* 🔭 인턴 경험 4개월
-* 🖥️ 프로젝트 리스트
+* 🌱 사용 언어는 **Java, Python, JavaScript, C#, MySQL**
+* 🔭 인턴 4개월
+* 🖥️ 프로젝트 List
    - 과자공장 DB 설계
    - BitmapIndex 구현
-   - 보도자료 연관 뉴스 제공 웹사이트 기능 제작
-   
-* 🌟 꼭 최선을 다할 필요는 없어요 모든 결과가 다 성공이여야 하지 않아요
-* 😄 강아지 고양이 좋아해요🐶😽
+   - 보도자료 연관 뉴스 제공 웹사이트
+                                                                                                                                                                                                         
+* 😄love: 강아지🐶 고양이😽
+* 🌟Life: 모든🤗 결과가‼️ 다🤍 성공이지🍀 않아도🙂‍↕️ 된다😍
   
 
 <!--
 **KKimgy013/KKimgy013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
