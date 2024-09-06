@@ -1,5 +1,16 @@
 ## 안녕하세요 😁🙌
 
+* ENFP 🌈
+* 🌟Life: 모든🤗 결과가‼️ 다🤍 성공이지🍀 않아도🙂‍↕️ 된다😍
+
+* 😄love: 강아지🐶 고양이😽
+
+* 🛫Travel: 대만 싱가포르 보라카이
+
+* 목표를 한 단어로 표현하자면? 물💧
+
+____________________________________________________________________________________________________
+
 🤓 Usually *Java, Python, JavaScript, C#, MySQL*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKimgy013&layout=compact)
@@ -11,8 +22,7 @@
    - BitmapIndex 구현
    - 보도자료 연관 뉴스 제공 웹사이트
                                                                                                                                                                                                          
-* 😄love: 강아지🐶 고양이😽
-* 🌟Life: 모든🤗 결과가‼️ 다🤍 성공이지🍀 않아도🙂‍↕️ 된다😍
+
   
 
 <!--
