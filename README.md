@@ -13,7 +13,7 @@
                                                                                                                                                                                                          
 * 😄love: 강아지🐶 고양이😽
 * 🌟Life: 모든🤗 결과가‼️ 다🤍 성공이지🍀 않아도🙂‍↕️ 된다😍
-  
+* ⛳vocabulary: 넉넉하고 여유로운 삶을 살기 위해 달려가는 중🏃‍♀️
 
 <!--
 **KKimgy013/KKimgy013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
