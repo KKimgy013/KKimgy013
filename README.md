@@ -16,6 +16,8 @@
 
 * 🛫Travel: 대만 싱가포르 보라카이 방콕
 
+* 💪Exercise: 헬스 수영 발레 요가 필라테스 러닝 자전거
+
 * Fianl Vocabulary: 물💧
 
 
