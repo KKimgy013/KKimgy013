@@ -1,5 +1,7 @@
 ## 안녕하세요 😁🙌
 
+<img src = https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/33cec27ad0cc4072a7e596f32e1c97a9/e1b91074d3384e8d877d0dbfe520d242_1538270577.jpg>
+
 * ENFP 🌈
 * 🌟Life: 모든🤗 결과가‼️ 다🤍 성공이지🍀 않아도🙂‍↕️ 된다😍
 
@@ -11,7 +13,7 @@
 
 * Fianl Vocabulary: 물💧
 
-<img src = https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/33cec27ad0cc4072a7e596f32e1c97a9/e1b91074d3384e8d877d0dbfe520d242_1538270577.jpg>
+
 
 ____________________________________________________________________________________________________
 🫀Programming Language🫀
