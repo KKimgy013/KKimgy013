@@ -1,8 +1,13 @@
 ## 안녕하세요 😁🙌
 
-<img src = https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/33cec27ad0cc4072a7e596f32e1c97a9/e1b91074d3384e8d877d0dbfe520d242_1538270577.jpg>
+<div align="center">
+  <img src="https://d3kxs6kpbh59hp.cloudfront.net/community/COMMUNITY/33cec27ad0cc4072a7e596f32e1c97a9/e1b91074d3384e8d877d0dbfe520d242_1538270577.jpg" alt="Centered Image" />
+</div>
+
+<h3>😉About Me😉</h3>
 
 * ENFP 🌈
+
 * 🌟Life: 모든🤗 결과가‼️ 다🤍 성공이지🍀 않아도🙂‍↕️ 된다😍
 
 * 😄love: 강아지🐶 고양이😽
@@ -16,7 +21,7 @@
 
 
 ____________________________________________________________________________________________________
-🫀Programming Language🫀
+<h3>🫀Programming Language🫀</h3>
 
 <img src="https://img.shields.io/badge/Java-gray?style=for-the-badge" /><img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=3776AB" /><img src="https://img.shields.io/badge/C%23-8e7cc3?style=for-the-badge" /><img src="https://img.shields.io/badge/JavaScript-ffd966?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/MySQL-6fa8dc?style=for-the-badge&logo=mysql&logoColor=white" />
 
@@ -24,7 +29,7 @@ ________________________________________________________________________________
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKimgy013&layout=compact)
 
 ____________________________________________________________________________________________________
-🎶What I do🎶
+<h3>🎶What I do🎶</h3>
 * 2020.03 ~ 2024.02 소프트웨어학 학사 전공
 
 * 2022.09 ~ 2022.12 캡스톤디자인_보도자료 연관 뉴스 제공 웹사이트 프로젝트
